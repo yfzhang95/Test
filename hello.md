@@ -8,8 +8,8 @@
 -------
 ## 选择题
 ### 单选题
-1. 下面那些问题可以在编译期间发现？ 
-    A. unresolved external symbol   
+1. 下面那些问题可以在编译期间发现？  
+    A. unresolved external symbol  
     B. 空指针
     C. 语法错误
     D. 内部错误
