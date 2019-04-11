@@ -1,10 +1,10 @@
 # GitHub中上传
 1. 在GitHub中创建Repositories  
 
-    >![创建git仓库](./1.png "创建git仓库"){:width="100px" height="100px"} 
+    <img src='./1.png' winth = '100' height = '100' div align = center>![创建git仓库](./1.png "创建git仓库")
 
 
-    >![创建git仓库](./2.png "创建git仓库")  
+    ![创建git仓库](./2.png "创建git仓库")  
 
 2. 将创建的git仓库克隆到桌面  
 
