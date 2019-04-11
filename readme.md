@@ -1,7 +1,7 @@
 # GitHub中上传
 1. 在GitHub中创建Repositories  
 
-    >![创建git仓库](./1.png "创建git仓库") {:width='100px' height='100px'} 
+    >![创建git仓库](./1.png "创建git仓库"){:width="100px" height="100px"} 
 
 
     >![创建git仓库](./2.png "创建git仓库")  
